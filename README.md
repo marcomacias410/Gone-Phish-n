@@ -1,2 +1,2 @@
 # Gone-Phish-n
-CP
+CPSC 481 Project
